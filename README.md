@@ -96,7 +96,7 @@ Scríobh feidhm Python a ríomhann an fháithgineach de uimhir.
 Response:
 Seo feidhm Python chun an fháithgineach a ríomh:
 
-```python
+python
 def factorial(n):
     """
     Ríomhann an fháithgineach de slánuimhir neamh-dhiúltach.
@@ -112,7 +112,7 @@ def factorial(n):
     if n == 0 or n == 1:
         return 1
     return n * factorial(n - 1)
-```
+
 
 Úsáideann sé athchúrsáil. Mar shampla, do n=5: 5! = 5 × 4 × 3 × 2 × 1 = 120
 
